@@ -1,7 +1,3 @@
-# STAT5241 Statistical Machine Learning
-# Assignment 4
-# Litong Wen  UNI:lw2627
-# Problem 3
 setwd("~/R files")
 # 1.Implement AdaBoost algorithm
 adaboost<-function(x,y,B){
